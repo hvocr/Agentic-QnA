@@ -1,0 +1,12 @@
+streamlit
+requests
+beautifulsoup4
+readability-lxml
+lxml
+serpapi
+sentence-transformers
+groq
+numpy
+scikit-learn
+pandas
+PyMuPDF
