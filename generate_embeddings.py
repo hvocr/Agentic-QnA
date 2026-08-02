@@ -8,3 +8,7 @@ def get_embedding_model():
 def generate_embeddings(chunks: list):
     model = get_embedding_model()
     return model.encode(chunks, convert_to_numpy=True)
+
+# Alias for document_qna
+def get_embeddings(chunks: list):
+    return generate_embeddings(chunks)
