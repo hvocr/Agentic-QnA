@@ -42,6 +42,19 @@ def is_scraping_allowed(url: str) -> bool:
     except:
         return True
 
+def is_garbled(line: str) -> bool:
+    """
+    Detects lines that are mostly letter-spaced or otherwise mangled text
+    (a common artifact when a page has hidden/duplicate text nodes, e.g.
+    accessibility spans that spell out numbers/words one character at a time).
+    """
+    words = line.split()
+    if not words:
+        return False
+    single_char = sum(1 for w in words if len(w) == 1)
+    return (single_char / len(words)) > 0.4
+
+
 def scrape_page(url: str, timeout: int = 15) -> Optional[str]:
     try:
         resp = requests.get(url, headers=HEADERS, timeout=timeout)
@@ -62,6 +75,7 @@ def scrape_page(url: str, timeout: int = 15) -> Optional[str]:
                     text_parts.append(txt)
             text = "\n".join(text_parts)
         lines = [line.strip() for line in text.splitlines() if line.strip()]
+        lines = [line for line in lines if not is_garbled(line)]
         return "\n".join(lines)
     except Exception as e:
         return None

@@ -29,13 +29,20 @@ class WebQnA:
         context = "\n\n---\n\n".join([chunk for chunk, _ in top_results])
         client = Groq(api_key=self.groq_api_key)
         messages = [
-            {"role": "system", "content": "You are a concise assistant. Answer the question directly based ONLY on the provided context. If the context does not contain a clear answer, say exactly: 'The context does not provide enough information to answer.'"},
+            {"role": "system", "content": (
+                "You are a concise assistant. Answer the question using the provided context. "
+                "If the context contains multiple rankings, lists, or sources that disagree, "
+                "summarize the most relevant one(s) and briefly note that the answer can vary "
+                "by source or metric (e.g. downloads vs. active players). "
+                "Only say the context does not provide enough information if it is genuinely "
+                "unrelated to the question."
+            )},
             {"role": "user", "content": f"Context:\n{context}\n\nQuestion: {question}"}
         ]
         response = client.chat.completions.create(
-            model="llama-3.1-8b-instant",
+            model="llama-3.3-70b-versatile",
             messages=messages,
-            temperature=0.0,
+            temperature=0.2,
             max_tokens=300
         )
         answer = response.choices[0].message.content
