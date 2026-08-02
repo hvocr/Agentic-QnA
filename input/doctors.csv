@@ -1,0 +1,201 @@
+doctorid,doctorName,speciality,doctorContactinfo,branchName,experienceinYears,rating,fee
+1,Dhruv Chacko,"Pediatric Neurology, Neuro-oncology",6482045131,Waitakere occaecati Hospital,26,4.37,169
+2,Kaira Grover,"Family Medicine, Internal Medicine",6440349375,Hutt omnis Hospital,19,3.82,173
+3,Arnav Shetty,"Cosmetic Dermatology, Medical Dermatology",6460188618,Auckland City minus Hospital,17,3.9,235
+4,Zain Dhar,"Neonatology, Pediatric Oncology",6400814534,Auckland City laboriosam Hospital,2,1.21,224
+5,Anika Sahota,"Joint Replacement, Sports Medicine",6421697721,Hutt voluptas Hospital,27,3.87,179
+6,Myra Saini,"Medical Oncology, Radiation Oncology",6479357572,Auckland City occaecati Hospital,5,2.26,151
+7,Anaya Bajwa,"Family Medicine, Internal Medicine",6430526027,Hutt cum Hospital,19,2.84,258
+8,Nirvi Chauhan,"Neonatology, Pediatric Oncology",6458613830,Hutt excepturi Hospital,12,4.8,66
+9,Khushi Deep,"Family Medicine, Internal Medicine",6484330307,Hutt nobis Hospital,26,4.99,236
+10,Tarini Ramachandran,"Neonatology, Pediatric Oncology",6494135915,Hutt magni Hospital,15,2.88,103
+11,Yuvraj  Deshmukh,"Trauma Care, Acute Medicine",6409034494,Auckland City labore Hospital,3,1.87,132
+12,Divyansh Bobal,"Interventional Cardiology, Cardiac Electrophysiology",6476901673,Auckland City veritatis Hospital,20,2.3,128
+13,Divit Dey,"Child and Adolescent Psychiatry, Addiction Psychiatry",6430797992,Auckland City quis Hospital,19,2.51,127
+14,Abram Kaul,"Orthopedic Surgery, Plastic Surgery",6408028283,Auckland City reprehenderit Hospital,19,2.71,51
+15,Zaina Maharaj,"Diagnostic Radiology, Interventional Radiology",6423642638,Auckland City doloremque Hospital,27,2.07,241
+16,Badal Lalla,"Diagnostic Radiology, Interventional Radiology",6419188911,Starship Children’s Health voluptas Hospital,27,3.62,289
+17,Indrans Comar,"Family Medicine, Internal Medicine",6435764351,Kenepuru quia Hospital,14,3.29,185
+18,Trisha Sampath,"Family Medicine, Internal Medicine",6470246755,Wellington Regional enim Hospital,9,3.46,204
+19,Zaina Saini,"Joint Replacement, Sports Medicine",6459003350,Starship Children’s Health dolorem Hospital,10,4.52,284
+20,Abram Rattan,"Joint Replacement, Sports Medicine",6495543825,Auckland City quia Hospital,23,4.38,123
+21,Taran Rajagopalan,"Joint Replacement, Sports Medicine",6457649807,Wellington Regional maiores Hospital,9,4.26,71
+22,Hazel Manda,"Orthopedic Surgery, Plastic Surgery",6434269393,Auckland City distinctio Hospital,6,2.48,175
+23,Ivana Agrawal,"Hepatology, Gastrointestinal Surgery",6415450307,Wellington Regional unde Hospital,30,3.17,290
+24,Bhavin Devan,"Hepatology, Gastrointestinal Surgery",6407754067,Auckland City enim Hospital,12,2.69,68
+25,Drishya Gour,"Hepatology, Gastrointestinal Surgery",6443050078,Starship Children’s Health ea Hospital,11,3.24,271
+26,Zoya Bir,"Medical Oncology, Radiation Oncology",6465237095,Kenepuru nostrum Hospital,21,4.66,56
+27,Reyansh Kapur,"Pediatric Neurology, Neuro-oncology",6465346100,Waitakere doloremque Hospital,16,1.43,273
+28,Shayak Subramaniam,"Neonatology, Pediatric Oncology",6447354036,Starship Children’s Health illo Hospital,9,3.57,272
+29,Jiya Ratta,"Interventional Cardiology, Cardiac Electrophysiology",6492998682,Kenepuru ullam Hospital,26,3.57,210
+30,Tanya Luthra,"Family Medicine, Internal Medicine",6419702375,Wellington Regional natus Hospital,1,3.45,173
+31,Alisha Sawhney,"Neonatology, Pediatric Oncology",6448043103,Waitakere veniam Hospital,10,3.88,99
+32,Vedika Malhotra,"Clinical Pharmacy, Pharmacology",6499612359,Hutt tempore Hospital,16,2.65,115
+33,Hiran Bhattacharyya,"Diagnostic Radiology, Interventional Radiology",6436097212,Auckland City tenetur Hospital,15,2.23,61
+34,Emir Grewal,"Hepatology, Gastrointestinal Surgery",6456849791,Wellington Regional neque Hospital,2,1.45,53
+35,Vidur Lanka,"Diagnostic Radiology, Interventional Radiology",6468459751,Hutt modi Hospital,7,1.52,284
+36,Dishani Kade,"Child and Adolescent Psychiatry, Addiction Psychiatry",6490719088,Starship Children’s Health harum Hospital,29,3.65,189
+37,Nehmat Loke,"Diagnostic Radiology, Interventional Radiology",6417006517,Waitakere commodi Hospital,11,4.01,146
+38,Anvi Dey,"Trauma Care, Acute Medicine",6495715351,Kenepuru at Hospital,27,1.91,276
+39,Heer Varma,"Diagnostic Radiology, Interventional Radiology",6468500512,Kenepuru dolorem Hospital,27,3.14,293
+40,Zeeshan Trivedi,"Trauma Care, Acute Medicine",6486858672,Waitakere reiciendis Hospital,21,1.9,167
+41,Kimaya Dada,"Joint Replacement, Sports Medicine",6489513771,Waitakere sed Hospital,23,1.54,196
+42,Shamik Sama,"Medical Oncology, Radiation Oncology",6443179843,Kenepuru dolores Hospital,20,4.34,233
+43,Divij Borah,"Medical Oncology, Radiation Oncology",6416101961,Waitakere ipsa Hospital,6,3.35,163
+44,Zain Balasubramanian,"Clinical Pharmacy, Pharmacology",6442032176,Starship Children’s Health sequi Hospital,26,1.53,194
+45,Saksham Arora,"Orthopedic Surgery, Plastic Surgery",6450725393,Kenepuru dolorem Hospital,11,3.86,240
+46,Kiara Reddy,"Diagnostic Radiology, Interventional Radiology",6403661645,Wellington Regional laboriosam Hospital,13,4.35,134
+47,Inaaya  Dyal,"Hepatology, Gastrointestinal Surgery",6473147806,Auckland City excepturi Hospital,3,1.91,78
+48,Dhanuk Kanda,"Orthopedic Surgery, Plastic Surgery",6436742344,Kenepuru non Hospital,7,4.77,128
+49,Miraan Bhasin,"Clinical Pharmacy, Pharmacology",6465878297,Waitakere molestias Hospital,29,4.58,225
+50,Jayesh Vaidya,"Diagnostic Radiology, Interventional Radiology",6469703295,Wellington Regional dolores Hospital,3,2.33,184
+51,Aniruddh Kale,"Interventional Cardiology, Cardiac Electrophysiology",6482714134,Waitakere fugit Hospital,12,4.67,209
+52,Farhan Sankaran,"Cosmetic Dermatology, Medical Dermatology",6471446987,Auckland City facilis Hospital,25,4.92,255
+53,Prisha Dhawan,"Clinical Pharmacy, Pharmacology",6453511240,Waitakere placeat Hospital,1,3.94,141
+54,Nirvi Amble,"Hepatology, Gastrointestinal Surgery",6459051387,Hutt optio Hospital,9,2.6,154
+55,Ritvik Dey,"Joint Replacement, Sports Medicine",6437039497,Auckland City possimus Hospital,13,3.52,103
+56,Nirvi Manne,"Child and Adolescent Psychiatry, Addiction Psychiatry",6462261325,Wellington Regional expedita Hospital,17,4.34,128
+57,Tanya Sarna,"Clinical Pharmacy, Pharmacology",6450155671,Wellington Regional tenetur Hospital,5,2.8,167
+58,Alisha Wali,"Cosmetic Dermatology, Medical Dermatology",6454775973,Starship Children’s Health quidem Hospital,17,4.84,242
+59,Neysa Ahuja,"Clinical Pharmacy, Pharmacology",6491657888,Hutt dolores Hospital,6,3.84,108
+60,Veer Khatri,"Pediatric Neurology, Neuro-oncology",6438720796,Hutt dolorum Hospital,19,1.81,299
+61,Navya Hayre,"Clinical Pharmacy, Pharmacology",6423235353,Hutt voluptatibus Hospital,20,1.03,99
+62,Riya Sekhon,"Child and Adolescent Psychiatry, Addiction Psychiatry",6495529484,Auckland City vitae Hospital,21,1.31,150
+63,Eva Dar,"Child and Adolescent Psychiatry, Addiction Psychiatry",6406617183,Auckland City atque Hospital,26,1.33,300
+64,Hiran Mani,"Interventional Cardiology, Cardiac Electrophysiology",6438948083,Waitakere deserunt Hospital,13,4.26,255
+65,Dishani Guha,"Hepatology, Gastrointestinal Surgery",6427902269,Hutt doloribus Hospital,8,4.59,212
+66,Tarini Bhalla,"Hepatology, Gastrointestinal Surgery",6476216621,Waitakere quis Hospital,27,4.95,183
+67,Riaan Bhatnagar,"Neonatology, Pediatric Oncology",6459660440,Hutt in Hospital,23,1.06,69
+68,Taimur Dass,"Diagnostic Radiology, Interventional Radiology",6492843555,Kenepuru est Hospital,7,1.75,260
+69,Vanya Halder,"Family Medicine, Internal Medicine",6436460757,Wellington Regional nobis Hospital,7,4.62,221
+70,Nehmat Khare,"Orthopedic Surgery, Plastic Surgery",6491428549,Starship Children’s Health impedit Hospital,9,1.81,83
+71,Tara Sarraf,"Family Medicine, Internal Medicine",6479340852,Hutt deserunt Hospital,11,2.9,238
+72,Shaan Krishnan,"Joint Replacement, Sports Medicine",6457487952,Wellington Regional explicabo Hospital,19,4.38,177
+73,Bhamini Kakar,"Child and Adolescent Psychiatry, Addiction Psychiatry",6435937874,Hutt maiores Hospital,1,4.51,64
+74,Nirvaan Dash,"Neonatology, Pediatric Oncology",6456108387,Kenepuru distinctio Hospital,19,2.89,73
+75,Sana Randhawa,"Clinical Pharmacy, Pharmacology",6429283380,Wellington Regional id Hospital,29,1.91,82
+76,Tanya Ratta,"Cosmetic Dermatology, Medical Dermatology",6410837401,Kenepuru a Hospital,20,2.34,156
+77,Kavya Basak,"Pediatric Neurology, Neuro-oncology",6499442900,Hutt velit Hospital,28,4.75,244
+78,Fateh Karan,"Medical Oncology, Radiation Oncology",6407343346,Auckland City officia Hospital,2,1.2,269
+79,Badal Chandran,"Pediatric Neurology, Neuro-oncology",6457890542,Starship Children’s Health nisi Hospital,6,1.02,117
+80,Sahil Raj,"Orthopedic Surgery, Plastic Surgery",6476886144,Kenepuru fuga Hospital,19,1.2,164
+81,Hansh Bhalla,"Orthopedic Surgery, Plastic Surgery",6478812096,Hutt ipsam Hospital,16,2.52,273
+82,Tushar Sabharwal,"Trauma Care, Acute Medicine",6414777300,Starship Children’s Health enim Hospital,14,2.6,136
+83,Ishita Gopal,"Child and Adolescent Psychiatry, Addiction Psychiatry",6443996043,Wellington Regional earum Hospital,28,4.64,88
+84,Divij Babu,"Medical Oncology, Radiation Oncology",6478048770,Waitakere officiis Hospital,20,4.42,92
+85,Zain Sami,"Child and Adolescent Psychiatry, Addiction Psychiatry",6434399608,Auckland City deleniti Hospital,3,3.01,116
+86,Vanya Mand,"Medical Oncology, Radiation Oncology",6443972904,Kenepuru quod Hospital,14,1.08,108
+87,Romil Verma,"Neonatology, Pediatric Oncology",6401916075,Waitakere dolores Hospital,4,3.02,254
+88,Mishti Chander,"Joint Replacement, Sports Medicine",6460262048,Wellington Regional libero Hospital,6,2.26,200
+89,Adira Suresh,"Child and Adolescent Psychiatry, Addiction Psychiatry",6438096519,Waitakere molestias Hospital,26,3.87,69
+90,Darshit Uppal,"Interventional Cardiology, Cardiac Electrophysiology",6475710150,Wellington Regional nulla Hospital,9,2.49,253
+91,Zara Bora,"Medical Oncology, Radiation Oncology",6413135362,Hutt quibusdam Hospital,24,4.53,63
+92,Prisha Chaudhari,"Neonatology, Pediatric Oncology",6413483706,Starship Children’s Health nobis Hospital,30,4.7,163
+93,Adira Mand,"Child and Adolescent Psychiatry, Addiction Psychiatry",6433956176,Kenepuru fugiat Hospital,8,2.86,241
+94,Shray Gupta,"Medical Oncology, Radiation Oncology",6460841336,Wellington Regional iste Hospital,21,2.27,169
+95,Hunar Luthra,"Joint Replacement, Sports Medicine",6469123517,Hutt voluptatibus Hospital,29,1.96,182
+96,Samar Krish,"Neonatology, Pediatric Oncology",6421985165,Wellington Regional dolores Hospital,25,2.35,207
+97,Anvi Sachdeva,"Clinical Pharmacy, Pharmacology",6465229840,Starship Children’s Health animi Hospital,28,4.27,280
+98,Vedika Seth,"Child and Adolescent Psychiatry, Addiction Psychiatry",6461765602,Wellington Regional labore Hospital,29,4.05,138
+99,Ivan Sagar,"Joint Replacement, Sports Medicine",6421931606,Hutt facere Hospital,15,3.84,205
+100,Jivika Bansal,"Diagnostic Radiology, Interventional Radiology",6468233080,Starship Children’s Health tempore Hospital,10,3.08,266
+101,Arnav Sridhar,"Diagnostic Radiology, Interventional Radiology",6410609109,Kenepuru repellendus Hospital,10,4.7,240
+102,Himmat Sinha,"Cosmetic Dermatology, Medical Dermatology",6406375966,Waitakere iste Hospital,23,1.36,295
+103,Stuvan Mallick,"Medical Oncology, Radiation Oncology",6412032061,Hutt maxime Hospital,28,2.7,223
+104,Kartik Chhabra,"Joint Replacement, Sports Medicine",6481478087,Hutt aliquid Hospital,21,1.85,276
+105,Shayak Vig,"Joint Replacement, Sports Medicine",6422250600,Hutt sunt Hospital,7,3.17,123
+106,Zeeshan Walla,"Hepatology, Gastrointestinal Surgery",6427040317,Kenepuru aliquid Hospital,29,1.73,124
+107,Amani Handa,"Child and Adolescent Psychiatry, Addiction Psychiatry",6464168490,Hutt rem Hospital,25,4.3,89
+108,Aradhya Gour,"Clinical Pharmacy, Pharmacology",6414645335,Kenepuru nulla Hospital,4,4.26,111
+109,Rania Dave,"Cosmetic Dermatology, Medical Dermatology",6499377034,Starship Children’s Health esse Hospital,27,3.93,240
+110,Aarush Ravi,"Hepatology, Gastrointestinal Surgery",6497335604,Wellington Regional exercitationem Hospital,20,2.65,211
+111,Miraya Sheth,"Interventional Cardiology, Cardiac Electrophysiology",6498319356,Starship Children’s Health qui Hospital,20,4.9,61
+112,Lavanya Edwin,"Orthopedic Surgery, Plastic Surgery",6413695391,Kenepuru quas Hospital,8,3.06,147
+113,Lavanya Dhar,"Interventional Cardiology, Cardiac Electrophysiology",6459263969,Auckland City fuga Hospital,2,4.51,230
+114,Parinaaz Divan,"Neonatology, Pediatric Oncology",6452107016,Wellington Regional cum Hospital,16,2.51,219
+115,Parinaaz Chaudhari,"Clinical Pharmacy, Pharmacology",6488119394,Waitakere provident Hospital,15,2.87,113
+116,Kartik Agrawal,"Medical Oncology, Radiation Oncology",6426303880,Auckland City ad Hospital,2,3.74,125
+117,Anahita Krishna,"Cosmetic Dermatology, Medical Dermatology",6477318227,Auckland City officiis Hospital,4,3.28,237
+118,Amira Lanka,"Trauma Care, Acute Medicine",6489422734,Wellington Regional magnam Hospital,16,4.22,153
+119,Inaaya  Wable,"Interventional Cardiology, Cardiac Electrophysiology",6475852476,Wellington Regional ex Hospital,24,1.72,71
+120,Aaryahi Choudhury,"Medical Oncology, Radiation Oncology",6469234953,Auckland City dolore Hospital,25,3.52,128
+121,Bhamini Mandal,"Hepatology, Gastrointestinal Surgery",6477775577,Hutt quod Hospital,5,2.8,282
+122,Vritika Dutt,"Child and Adolescent Psychiatry, Addiction Psychiatry",6410399462,Auckland City quibusdam Hospital,5,4.33,292
+123,Pihu Varma,"Clinical Pharmacy, Pharmacology",6450746472,Starship Children’s Health possimus Hospital,9,2.89,283
+124,Urvi Dugar,"Clinical Pharmacy, Pharmacology",6471840820,Kenepuru animi Hospital,30,2.72,299
+125,Shaan Shan,"Neonatology, Pediatric Oncology",6474495527,Hutt voluptatem Hospital,21,1.31,54
+126,Samarth Dave,"Family Medicine, Internal Medicine",6497361353,Auckland City occaecati Hospital,28,3.37,100
+127,Aarav Mall,"Joint Replacement, Sports Medicine",6473071366,Waitakere adipisci Hospital,29,2.02,179
+128,Chirag Barad,"Cosmetic Dermatology, Medical Dermatology",6479518458,Waitakere ab Hospital,9,2.48,255
+129,Siya Date,"Clinical Pharmacy, Pharmacology",6436922280,Kenepuru quo Hospital,5,4.18,103
+130,Tejas Rout,"Orthopedic Surgery, Plastic Surgery",6484987310,Kenepuru rerum Hospital,30,1.73,163
+131,Jayant Bahri,"Cosmetic Dermatology, Medical Dermatology",6490472217,Wellington Regional ipsa Hospital,6,3.73,222
+132,Sara Keer,"Trauma Care, Acute Medicine",6485819133,Kenepuru nesciunt Hospital,27,1.05,291
+133,Drishya Vaidya,"Pediatric Neurology, Neuro-oncology",6429980973,Starship Children’s Health saepe Hospital,14,2.76,172
+134,Shayak Seshadri,"Pediatric Neurology, Neuro-oncology",6498197712,Auckland City corporis Hospital,23,4.37,71
+135,Pari Ramakrishnan,"Family Medicine, Internal Medicine",6491845276,Starship Children’s Health voluptas Hospital,15,3.29,174
+136,Divit Jha,"Neonatology, Pediatric Oncology",6425181953,Starship Children’s Health perferendis Hospital,25,2.36,155
+137,Kiara Wadhwa,"Diagnostic Radiology, Interventional Radiology",6445859592,Wellington Regional laborum Hospital,6,3.22,288
+138,Umang Balakrishnan,"Medical Oncology, Radiation Oncology",6409089082,Kenepuru magnam Hospital,14,2.41,73
+139,Divij Kara,"Joint Replacement, Sports Medicine",6494067047,Starship Children’s Health placeat Hospital,2,1.87,225
+140,Nirvi Balay,"Interventional Cardiology, Cardiac Electrophysiology",6445467952,Hutt ipsam Hospital,22,4.86,193
+141,Shaan Raju,"Medical Oncology, Radiation Oncology",6425808294,Waitakere placeat Hospital,9,2.94,156
+142,Zeeshan Sachdeva,"Child and Adolescent Psychiatry, Addiction Psychiatry",6473242079,Hutt distinctio Hospital,14,2.01,188
+143,Ayesha Chauhan,"Orthopedic Surgery, Plastic Surgery",6478025002,Kenepuru perferendis Hospital,10,3.38,172
+144,Pihu Kaul,"Diagnostic Radiology, Interventional Radiology",6410876827,Starship Children’s Health odio Hospital,19,2.56,233
+145,Charvi Shetty,"Cosmetic Dermatology, Medical Dermatology",6435238878,Wellington Regional ipsam Hospital,16,4.81,165
+146,Lavanya Srinivasan,"Child and Adolescent Psychiatry, Addiction Psychiatry",6422462097,Starship Children’s Health iste Hospital,21,3.99,58
+147,Farhan Sagar,"Interventional Cardiology, Cardiac Electrophysiology",6486390495,Wellington Regional inventore Hospital,17,2.54,261
+148,Zoya Hora,"Interventional Cardiology, Cardiac Electrophysiology",6483636654,Waitakere reiciendis Hospital,10,3.57,149
+149,Ela Raja,"Cosmetic Dermatology, Medical Dermatology",6478239269,Starship Children’s Health iure Hospital,8,3.18,217
+150,Kaira Dhillon,"Pediatric Neurology, Neuro-oncology",6435065400,Starship Children’s Health pariatur Hospital,24,3.61,177
+151,Zoya Toor,"Cosmetic Dermatology, Medical Dermatology",6405321443,Kenepuru odit Hospital,18,4.16,51
+152,Yakshit Dey,"Diagnostic Radiology, Interventional Radiology",6402023674,Hutt iste Hospital,20,2.58,163
+153,Emir Sama,"Diagnostic Radiology, Interventional Radiology",6459667065,Hutt soluta Hospital,28,4.05,276
+154,Taran Choudhury,"Child and Adolescent Psychiatry, Addiction Psychiatry",6480319343,Starship Children’s Health ipsa Hospital,25,4.16,271
+155,Vaibhav Venkatesh,"Clinical Pharmacy, Pharmacology",6443064347,Hutt hic Hospital,4,2.82,198
+156,Raghav Doctor,"Medical Oncology, Radiation Oncology",6439533250,Hutt non Hospital,4,4.08,102
+157,Shayak Banik,"Interventional Cardiology, Cardiac Electrophysiology",6443731463,Hutt quaerat Hospital,3,2.79,281
+158,Aaryahi Lanka,"Pediatric Neurology, Neuro-oncology",6484039589,Kenepuru minima Hospital,21,4.21,283
+159,Miraan Ramachandran,"Neonatology, Pediatric Oncology",6419042422,Wellington Regional saepe Hospital,20,2.09,215
+160,Indrans Vasa,"Interventional Cardiology, Cardiac Electrophysiology",6455483618,Kenepuru accusamus Hospital,11,3.91,153
+161,Dharmajan Kade,"Joint Replacement, Sports Medicine",6421800248,Kenepuru sequi Hospital,15,3.47,218
+162,Indrajit Sridhar,"Clinical Pharmacy, Pharmacology",6429014786,Waitakere unde Hospital,6,2.0,172
+163,Drishya Bassi,"Joint Replacement, Sports Medicine",6415144730,Wellington Regional unde Hospital,4,2.14,159
+164,Urvi Wagle,"Diagnostic Radiology, Interventional Radiology",6458645831,Auckland City omnis Hospital,24,2.08,266
+165,Tara Acharya,"Hepatology, Gastrointestinal Surgery",6406342957,Auckland City tempora Hospital,19,4.89,132
+166,Ela Ramanathan,"Pediatric Neurology, Neuro-oncology",6446409975,Waitakere soluta Hospital,22,3.54,117
+167,Bhavin Bedi,"Joint Replacement, Sports Medicine",6495287265,Wellington Regional ipsam Hospital,9,2.57,249
+168,Pari Biswas,"Orthopedic Surgery, Plastic Surgery",6409916832,Hutt accusamus Hospital,4,2.67,289
+169,Bhamini Suri,"Child and Adolescent Psychiatry, Addiction Psychiatry",6457269854,Wellington Regional vel Hospital,29,3.22,272
+170,Kiaan Gokhale,"Interventional Cardiology, Cardiac Electrophysiology",6480947274,Starship Children’s Health aspernatur Hospital,27,3.82,100
+171,Mohanlal Salvi,"Trauma Care, Acute Medicine",6444068712,Waitakere error Hospital,30,4.32,54
+172,Saksham Gaba,"Family Medicine, Internal Medicine",6402278611,Wellington Regional dignissimos Hospital,29,4.37,122
+173,Manikya Dhar,"Cosmetic Dermatology, Medical Dermatology",6408593252,Starship Children’s Health eaque Hospital,7,4.53,272
+174,Azad Contractor,"Interventional Cardiology, Cardiac Electrophysiology",6499432498,Wellington Regional error Hospital,13,2.19,118
+175,Farhan Lall,"Interventional Cardiology, Cardiac Electrophysiology",6459353438,Auckland City cupiditate Hospital,9,1.28,76
+176,Piya Chaudhry,"Trauma Care, Acute Medicine",6499900500,Wellington Regional labore Hospital,9,1.09,191
+177,Jayant Bhatti,"Neonatology, Pediatric Oncology",6449000494,Starship Children’s Health odit Hospital,26,3.93,273
+178,Shamik Khanna,"Diagnostic Radiology, Interventional Radiology",6466065341,Waitakere dolorum Hospital,14,2.4,108
+179,Nitara Vohra,"Pediatric Neurology, Neuro-oncology",6407537799,Hutt reiciendis Hospital,30,4.81,64
+180,Elakshi Boase,"Orthopedic Surgery, Plastic Surgery",6456990598,Auckland City nulla Hospital,20,3.39,145
+181,Madhup Sridhar,"Family Medicine, Internal Medicine",6432763000,Wellington Regional distinctio Hospital,22,1.3,54
+182,Priyansh Saran,"Trauma Care, Acute Medicine",6475835674,Kenepuru occaecati Hospital,24,2.4,251
+183,Aarna Boase,"Child and Adolescent Psychiatry, Addiction Psychiatry",6420145462,Hutt quibusdam Hospital,13,1.14,111
+184,Aradhya Hora,"Interventional Cardiology, Cardiac Electrophysiology",6430268879,Hutt labore Hospital,18,3.26,61
+185,Ira Vohra,"Cosmetic Dermatology, Medical Dermatology",6496602129,Auckland City tenetur Hospital,13,2.43,134
+186,Rasha Bora,"Pediatric Neurology, Neuro-oncology",6436394656,Auckland City aut Hospital,8,1.25,71
+187,Gatik Gupta,"Family Medicine, Internal Medicine",6444807309,Wellington Regional quas Hospital,15,1.97,273
+188,Gatik Tiwari,"Clinical Pharmacy, Pharmacology",6402964942,Waitakere dicta Hospital,27,4.25,104
+189,Neelofar Borah,"Hepatology, Gastrointestinal Surgery",6416763231,Waitakere reiciendis Hospital,20,4.06,197
+190,Navya Boase,"Orthopedic Surgery, Plastic Surgery",6467663590,Waitakere laborum Hospital,13,3.89,187
+191,Saanvi Dhillon,"Diagnostic Radiology, Interventional Radiology",6404694088,Wellington Regional praesentium Hospital,23,2.76,145
+192,Shlok Sarkar,"Interventional Cardiology, Cardiac Electrophysiology",6413986533,Auckland City nemo Hospital,7,2.01,120
+193,Anika Raman,"Family Medicine, Internal Medicine",6449511411,Wellington Regional vero Hospital,16,4.14,185
+194,Saksham Dash,"Pediatric Neurology, Neuro-oncology",6460169478,Starship Children’s Health sed Hospital,27,4.71,163
+195,Manjari Mann,"Hepatology, Gastrointestinal Surgery",6459777281,Hutt odit Hospital,28,4.75,120
+196,Madhav Khare,"Cosmetic Dermatology, Medical Dermatology",6415175700,Hutt aperiam Hospital,2,4.59,160
+197,Fateh Mani,"Clinical Pharmacy, Pharmacology",6444401730,Waitakere deserunt Hospital,18,1.82,164
+198,Rhea Chanda,"Interventional Cardiology, Cardiac Electrophysiology",6452566181,Hutt nam Hospital,1,4.58,169
+199,Sumer Subramaniam,"Family Medicine, Internal Medicine",6436127674,Wellington Regional maiores Hospital,2,2.73,170
+200,Devansh Ahuja,"Child and Adolescent Psychiatry, Addiction Psychiatry",6493150600,Kenepuru doloribus Hospital,28,4.86,98

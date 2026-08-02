@@ -1,0 +1,458 @@
+hospitalid,branchName,hospitalAddress,contactinfo,facilities
+1,Waitakere occaecati Hospital,"82 Simmons Lane
+RD 2
+Jenningsleigh 2185",6411570387,"Neurology, Surgery"
+2,Hutt omnis Hospital,"PO Box 688
+Batchelarton 2685",6487611346,"Dermatology, General Medicine"
+3,Auckland City minus Hospital,"25 Fuller-Franklin Street
+Whangawhitu 5324",6414674460,"Dermatology, General Medicine, Pediatric"
+4,Auckland City laboriosam Hospital,"PO Box 2
+Clarke Flats 8217",6405011251,"Pediatric, Gastroenterology"
+5,Hutt voluptas Hospital,"3 Caldwell Way
+Awakowhai 9866",6468736698,"Emergency Medicine, Orthopedics, Neurology"
+6,Auckland City occaecati Hospital,"20 Jones-Harris Avenue
+Tauiti 2209",6467424533,"Surgery, Oncology, Dermatology"
+7,Hutt cum Hospital,"856 Ching Drive
+RD 1
+Jensengate 8408",6487206041,General Medicine
+8,Hutt excepturi Hospital,"8 Edwards Way
+Tauawa 2165",6413362531,Pediatric
+9,Hutt nobis Hospital,"5 Burton-Simpson Close
+Gillespie Hill 2350",6453916290,General Medicine
+10,Hutt magni Hospital,"88 Warren-Barker Street
+Howellville 5296",6490564264,"Pediatric, Emergency Medicine"
+11,Auckland City labore Hospital,"72 Jones Beach Road
+Porongo 5089",6436167804,Emergency Medicine
+12,Auckland City veritatis Hospital,"9 Mayo-Evans Heights
+RD 9
+Martingate 6225",6405015236,Cardiology
+13,Auckland City quis Hospital,"PO Box 3
+Awaroto 8970",6458164960,"Psychiatry, Emergency Medicine, Pharmacy"
+14,Auckland City reprehenderit Hospital,"PO Box 520
+Williamson Flats 9458",6495118092,"Radiology, Emergency Medicine, Surgery"
+15,Auckland City doloremque Hospital,"Flat 92
+13 Parsons Crescent
+Strattoning 2131",6405844863,"Dermatology, Radiology"
+16,Starship Children’s Health voluptas Hospital,"11 Kowhairongoiti Street
+Hubbardneath 6410",6416194401,Radiology
+17,Kenepuru quia Hospital,"1 Jones Street
+Tererongoweka 8480",6434439741,General Medicine
+18,Wellington Regional enim Hospital,"8 Kelly Road
+RD 4
+Matakiwi 9377",6486277374,"Surgery, General Medicine, Orthopedics"
+19,Starship Children’s Health dolorem Hospital,"4 Corlett-Gore Esplanade
+New Jensenside 8651",6415311585,"Orthopedics, Emergency Medicine, Pediatric"
+20,Auckland City quia Hospital,"PO Box 358
+Awamaunga 8838",6442770848,"Radiology, Orthopedics"
+21,Wellington Regional maiores Hospital,"PO Box 55
+Manawatautai 5768",6447559847,Orthopedics
+22,Auckland City distinctio Hospital,"8 Allen Mews
+Bairdburn 2352",6436634326,"Surgery, Pediatric"
+23,Wellington Regional unde Hospital,"PO Box 82
+Papapamotuhope 3745",6489164469,"Pharmacy, Oncology, Gastroenterology"
+24,Auckland City enim Hospital,"3 Waipapapatahi Flats
+Jonesbury 6958",6410565096,Gastroenterology
+25,Starship Children’s Health ea Hospital,"Flat 68
+26 Tahitahiawa Alleyway
+Waimakau 5135",6456384323,"Gastroenterology, Emergency Medicine"
+26,Kenepuru nostrum Hospital,"PO Box 672
+McKaying 9736",6444532447,"Pediatric, Oncology"
+27,Waitakere doloremque Hospital,"319 Isaac Street
+RD 8
+Taupo 8562",6420184635,Neurology
+28,Starship Children’s Health illo Hospital,"PO Box 668
+Leonside 8581",6406717436,"Cardiology, Pediatric"
+29,Kenepuru ullam Hospital,"457 Howell Point
+Readmouth 2303",6450442880,"Dermatology, Cardiology"
+30,Wellington Regional natus Hospital,"314 Smith-Burrell Street
+Tautipuwhaka 5371",6478924404,"General Medicine, Cardiology, Psychiatry"
+31,Waitakere veniam Hospital,"7 Stephen Street
+Mokomaunga 2284",6457802368,"Dermatology, Pediatric"
+32,Hutt tempore Hospital,"9 Arawharekoro Crescent
+RD 7
+Donaldsonberg 8657",6440278396,"Psychiatry, Gastroenterology, Pharmacy"
+33,Auckland City tenetur Hospital,"PO Box 9
+Mokopapapamaunga 8529",6417183394,Radiology
+34,Wellington Regional neque Hospital,"279 Kowhaitahimakau Road
+Roherongo 8637",6414204182,Gastroenterology
+35,Hutt modi Hospital,"PO Box 8
+Rangiwaka 2098",6420533158,"Pediatric, Radiology, Orthopedics"
+36,Starship Children’s Health harum Hospital,"7 Small Street
+Waipapapaara 0599",6455415434,Psychiatry
+37,Waitakere commodi Hospital,"PO Box 37
+Websterhaven 5867",6447157452,Radiology
+38,Kenepuru at Hospital,"PO Box 86
+Stevensonborough 5373",6410907849,"General Medicine, Emergency Medicine"
+39,Kenepuru dolorem Hospital,"PO Box 12
+Arakoro 2693",6450993767,"Radiology, Neurology"
+40,Waitakere reiciendis Hospital,"Flat 41
+992 Grace Road
+Puketangikiwi 2064",6413264574,"Radiology, Emergency Medicine, General Medicine"
+41,Waitakere sed Hospital,"4 Stone Keys
+Rongopapapa 5744",6402573297,"Orthopedics, Oncology"
+42,Kenepuru dolores Hospital,"19 Wharewairoto Street
+Popeland 8826",6401158767,"Psychiatry, Oncology"
+43,Waitakere ipsa Hospital,"73 Neal-Thomas Approach
+Melissamouth 5783",6408666478,Oncology
+44,Starship Children’s Health sequi Hospital,"881 Lyons Circle
+Waihanga 1407",6421831803,Pharmacy
+45,Kenepuru dolorem Hospital,"PO Box 6
+Terehope 6916",6403112637,"Surgery, Dermatology, Emergency Medicine"
+46,Wellington Regional laboriosam Hospital,"70 Tanner Crest
+RD 6
+Francisland 6491",6463915258,"Neurology, General Medicine, Radiology"
+47,Auckland City excepturi Hospital,"501 Craven Mews
+RD 8
+Scott Flats 9889",6492746077,"Orthopedics, Gastroenterology"
+48,Kenepuru non Hospital,"PO Box 15
+Rileyhaven 5327",6493075944,Surgery
+49,Waitakere molestias Hospital,"31 Korotai Grove
+RD 1
+Maungawharenuku 9620",6470472586,Pharmacy
+50,Wellington Regional dolores Hospital,"249 Batchelar Road
+Lancasterside 8067",6436306630,"Radiology, Emergency Medicine, Pharmacy"
+51,Waitakere fugit Hospital,"2 Gill Grove
+RD 7
+Jenkinston 5787",6403853797,"Emergency Medicine, Dermatology, Cardiology"
+52,Auckland City facilis Hospital,"Suite 197
+71 Rototai Square
+Smithtown 9079",6456714035,"Dermatology, General Medicine"
+53,Waitakere placeat Hospital,"Flat 84
+408 Ngaurupapapamaunga Lane
+Tautangi 5217",6414410442,Pharmacy
+54,Hutt optio Hospital,"PO Box 8
+Tipumaungapuke 9289",6483085707,Gastroenterology
+55,Auckland City possimus Hospital,"8 Kowhairohe Point
+Cookleigh 9096",6442523474,"Orthopedics, Pharmacy, Gastroenterology"
+56,Wellington Regional expedita Hospital,"32 Wharerohetahi Copse
+RD 10
+Crawbury 8475",6448940690,"Psychiatry, Oncology, Radiology"
+57,Wellington Regional tenetur Hospital,"96 Taurotohoro Place
+Papapatainui 8189",6422596009,"Radiology, Pediatric, Pharmacy"
+58,Starship Children’s Health quidem Hospital,"2 Henderson Street
+Kowhaiiti 7726",6485929541,Dermatology
+59,Hutt dolores Hospital,"PO Box 5
+Waikowhai 9076",6428822926,Pharmacy
+60,Hutt dolorum Hospital,"9 McCallum-Henderson Road
+Puketauhoro 9227",6473203464,"Neurology, Orthopedics"
+61,Hutt voluptatibus Hospital,"51 Holdaway-Jamieson View
+RD 7
+Rotowai 8200",6496059603,Pharmacy
+62,Auckland City vitae Hospital,"12 Smith Road
+Smith Hill 6041",6400507022,"Gastroenterology, Dermatology, Psychiatry"
+63,Auckland City atque Hospital,"389 Holmes Line
+Wakawhakatapu 8476",6492011227,"Psychiatry, Surgery, Pharmacy"
+64,Waitakere deserunt Hospital,"44 Tahiwhareawa Park
+McIntyretown 9250",6499239920,"Cardiology, Surgery"
+65,Hutt doloribus Hospital,"3 Taikawa Arcade
+Martinberg 2025",6413867740,"Cardiology, Gastroenterology"
+66,Waitakere quis Hospital,"2 Kawamakau Arcade
+Taurongo 5335",6467408018,"Gastroenterology, Neurology"
+67,Hutt in Hospital,"287 Smith-Harper Flats
+Tipunui 6988",6407267258,Pediatric
+68,Kenepuru est Hospital,"PO Box 17
+Papapamaungawhitu 2198",6421428500,"Radiology, Pharmacy"
+69,Wellington Regional nobis Hospital,"765 Godfrey Court
+Evansfort 9735",6459224076,"General Medicine, Radiology, Pediatric"
+70,Starship Children’s Health impedit Hospital,"863 Pukerua Road
+RD 7
+Rebekahside 7842",6487846319,"Neurology, Surgery"
+71,Hutt deserunt Hospital,"20 Isabella Amble
+Williamsonings 7392",6431324026,"General Medicine, Neurology"
+72,Wellington Regional explicabo Hospital,"9 Wekakowhai Crossing
+High Simmondsleigh 1508",6437781985,Orthopedics
+73,Hutt maiores Hospital,"1 Barnett Quay
+RD 3
+Wharerangi 8490",6433287193,Psychiatry
+74,Kenepuru distinctio Hospital,"5 Wharerohehoro Range Road
+Andersonburn 2121",6410941036,"Orthopedics, Gastroenterology, Pediatric"
+75,Wellington Regional id Hospital,"91 Matamotu Plaza
+Araiti 6154",6418141861,Pharmacy
+76,Kenepuru a Hospital,"3 Wakapukewaka Street
+Ponui 8460",6498745051,"Dermatology, Radiology"
+77,Hutt velit Hospital,"11 Scott-Healey Mews
+RD 10
+Whakaara 9337",6448208399,"Neurology, Radiology"
+78,Auckland City officia Hospital,"832 Pukepapapakowhai Causeway
+Oliver Flats 5702",6414582719,Oncology
+79,Starship Children’s Health nisi Hospital,"1 Pukenui Avenue
+Pokawa 8226",6441153275,Neurology
+80,Kenepuru fuga Hospital,"56 Ward-Cole Anchorage
+RD 6
+East Smithton 9051",6416541664,"Surgery, Psychiatry, Dermatology"
+81,Hutt ipsam Hospital,"6 Rongohope Heights
+Tauwai 1902",6490466082,"Oncology, Surgery"
+82,Starship Children’s Health enim Hospital,"2 Gardiner Way
+Bothamhaven 5068",6478983705,"Gastroenterology, Emergency Medicine"
+83,Wellington Regional earum Hospital,"3 Adams Drive
+Bestside 9594",6487712863,"Psychiatry, Radiology, Neurology"
+84,Waitakere officiis Hospital,"17 Fowler Arcade
+East Barnesberg 8204",6464130896,Oncology
+85,Auckland City deleniti Hospital,"Apt. 497
+97 Day Flats
+Fergusonville 8480",6451208078,"Psychiatry, General Medicine, Oncology"
+86,Kenepuru quod Hospital,"PO Box 975
+Oliverton 2672",6497220041,"Oncology, Pediatric"
+87,Waitakere dolores Hospital,"7 Powharetapu Crescent
+Potterport 1444",6438747780,"Pediatric, Pharmacy"
+88,Wellington Regional libero Hospital,"757 Tiputahitangi Circle
+Cherieberg 9780",6410225936,Orthopedics
+89,Waitakere molestias Hospital,"257 Awapapapakawa Drive
+Oliverfort 2534",6431641125,"Neurology, Psychiatry"
+90,Wellington Regional nulla Hospital,"849 Watt Drive
+Tahikoro 5322",6402943441,Cardiology
+91,Hutt quibusdam Hospital,"555 Small-Strawbridge Mews
+RD 6
+Maungamakau 5772",6451974647,"Oncology, Pharmacy, General Medicine"
+92,Starship Children’s Health nobis Hospital,"396 Brown Ridge
+South Russellville 6933",6400854276,"Orthopedics, General Medicine, Pediatric"
+93,Kenepuru fugiat Hospital,"11 Horn Drive
+Paulville 9874",6477177054,Psychiatry
+94,Wellington Regional iste Hospital,"PO Box 60
+Lloydmouth 8259",6486712102,"Pediatric, Pharmacy, Oncology"
+95,Hutt voluptatibus Hospital,"377 Korotangipuke Arcade
+Robertleigh 2561",6440169277,"Pediatric, Orthopedics"
+96,Wellington Regional dolores Hospital,"468 Williams Arcade
+Arakawawhanga 4522",6461637602,"Pediatric, Psychiatry"
+97,Starship Children’s Health animi Hospital,"PO Box 2
+Cameronburgh 8537",6493706008,"Orthopedics, Pharmacy"
+98,Wellington Regional labore Hospital,"35 Maungakawamata Street
+Wainui 2677",6409096688,Psychiatry
+99,Hutt facere Hospital,"81 Morrison Mews
+RD 6
+Wekatere 9647",6497397500,"Pediatric, Emergency Medicine, Orthopedics"
+100,Starship Children’s Health tempore Hospital,"PO Box 109
+Terewai 8042",6431088858,"Radiology, Psychiatry, Pharmacy"
+101,Kenepuru repellendus Hospital,"59 Wharenuku Point
+Rongoiti 4442",6434864684,Radiology
+102,Waitakere iste Hospital,"7 Dunn-Bryant Terrace
+Awakawakoro 6990",6494935806,Dermatology
+103,Hutt maxime Hospital,"82 Manawamotunui Beach Road
+Tipuwhaka 2409",6409904330,Oncology
+104,Hutt aliquid Hospital,"Level 1
+8 Potoa Avenue
+Willisside 8913",6446261902,"Orthopedics, Neurology"
+105,Hutt sunt Hospital,"Flat 92
+30 Timothy Crescent
+Whakakawa 9868",6448145918,"Orthopedics, Surgery"
+106,Kenepuru aliquid Hospital,"264 Kawawaitere Close
+Dianeville 5114",6461127679,"Gastroenterology, Pediatric"
+107,Hutt rem Hospital,"5 MacDonald Cutting
+Sophieings 8573",6414877109,Psychiatry
+108,Kenepuru nulla Hospital,"122 Fulton Street
+Tipunui 0103",6435030049,"Radiology, Pharmacy"
+109,Starship Children’s Health esse Hospital,"350 Wong-Knight Road
+Horongauru 2020",6416680188,"Dermatology, Cardiology, General Medicine"
+110,Wellington Regional exercitationem Hospital,"76 Roberts-Bailey Street
+Grantbury 3460",6480572225,"Orthopedics, Gastroenterology, Radiology"
+111,Starship Children’s Health qui Hospital,"4 Tracey Street
+Upper Webstering 2093",6447680391,Cardiology
+112,Kenepuru quas Hospital,"2 Papapahope Quay
+Tipuroa 2477",6440932758,Surgery
+113,Auckland City fuga Hospital,"408 Wharekowhai Street
+RD 5
+Awapapapawhanga 8646",6496586967,"Gastroenterology, Cardiology"
+114,Wellington Regional cum Hospital,"41 Gilchrist-Hughes Cove
+RD 1
+Maungawhenua 6972",6451172106,"Pharmacy, Surgery, Pediatric"
+115,Waitakere provident Hospital,"Suite 629
+78 Pukenui Pass
+Baileytown 0188",6486850225,"Surgery, Radiology, Pharmacy"
+116,Auckland City ad Hospital,"PO Box 439
+Readstone 8481",6488542367,"Oncology, Cardiology, Emergency Medicine"
+117,Auckland City officiis Hospital,"2 Smith Place
+Marshall Flats 9681",6434663632,"Radiology, Dermatology"
+118,Wellington Regional magnam Hospital,"38 Craven-Gore Quay
+Olivianeath 9351",6433072822,"Dermatology, Orthopedics, Emergency Medicine"
+119,Wellington Regional ex Hospital,"41 Turner-O'Connor Avenue
+Barnesburgh 6474",6412683068,Cardiology
+120,Auckland City dolore Hospital,"5 Wekahope Track
+Kowhairongorua 2354",6458181995,Oncology
+121,Hutt quod Hospital,"Apt. 469
+409 Debra Alleyway
+Taurongo 9622",6400435482,"Gastroenterology, Surgery"
+122,Auckland City quibusdam Hospital,"Flat 17
+9 Nicol Drive
+Wekawhare 0191",6423721979,Psychiatry
+123,Starship Children’s Health possimus Hospital,"22 Mitchell Road
+RD 1
+Rangikoro 6102",6478295350,"Gastroenterology, Pediatric, Pharmacy"
+124,Kenepuru animi Hospital,"PO Box 97
+Cookleigh 2029",6421420506,Pharmacy
+125,Hutt voluptatem Hospital,"80 Ngaurumotumotu Road
+Tairangi 8422",6421676593,Pediatric
+126,Auckland City occaecati Hospital,"PO Box 61
+Whakanui 6050",6489927650,"Psychiatry, General Medicine"
+127,Waitakere adipisci Hospital,"33 Riley-McLeod Gardens
+RD 6
+Taunui 1073",6434979121,"Oncology, Orthopedics"
+128,Waitakere ab Hospital,"2 Porter Street
+RD 5
+Wekarongomaunga 8155",6497203243,"Dermatology, Radiology"
+129,Kenepuru quo Hospital,"2 Nicholas Point
+Fisherside 8269",6472892542,"General Medicine, Pharmacy"
+130,Kenepuru rerum Hospital,"PO Box 77
+Rohetere 9325",6484530910,"Gastroenterology, Surgery"
+131,Wellington Regional ipsa Hospital,"988 Stephanie Road
+RD 1
+Whangamaunga 6985",6475430132,Dermatology
+132,Kenepuru nesciunt Hospital,"PO Box 44
+Stewartburgh 1406",6473989247,Emergency Medicine
+133,Starship Children’s Health saepe Hospital,"PO Box 86
+Mokohoro 9835",6440833826,Neurology
+134,Auckland City corporis Hospital,"PO Box 71
+Armstronghaven 5330",6479215730,"Neurology, Pharmacy, Emergency Medicine"
+135,Starship Children’s Health voluptas Hospital,"517 Melissa Crescent
+Kowhaitahi 6240",6468025069,"General Medicine, Pharmacy"
+136,Starship Children’s Health perferendis Hospital,"1 Whangawhakaiti Alley
+Woodport 2512",6481635237,Pediatric
+137,Wellington Regional laborum Hospital,"23 Freeman Way
+RD 9
+Mount Hansonneath 1981",6426149033,Radiology
+138,Kenepuru magnam Hospital,"Suite 327
+332 Conway Avenue
+Kylieton 9352",6430644412,"Radiology, Emergency Medicine, Oncology"
+139,Starship Children’s Health placeat Hospital,"44 Shailer Street
+RD 4
+Tangirohemata 9354",6444996400,"Orthopedics, Surgery, Gastroenterology"
+140,Hutt ipsam Hospital,"Unit 10
+597 Anderson Road
+Horongaurutangi 6190",6433709885,"Cardiology, Orthopedics, Dermatology"
+141,Waitakere placeat Hospital,"101 Matthew Approach
+RD 1
+Haywardgate 6219",6427797701,Oncology
+142,Hutt distinctio Hospital,"6 Thomas Street
+Kawatapu 5144",6449055475,"Psychiatry, Pediatric, Gastroenterology"
+143,Kenepuru perferendis Hospital,"78 Wood Arcade
+Motuiti 7601",6420105583,Surgery
+144,Starship Children’s Health odio Hospital,"4 Mokotipukiwi Street
+Maungarangiwhitu 8884",6482494323,Radiology
+145,Wellington Regional ipsam Hospital,"6 Morton Crossing
+RD 6
+Maungatahi 4916",6437719406,"Oncology, Dermatology"
+146,Starship Children’s Health iste Hospital,"820 Rongotainui Corner
+Ngauruweka 4577",6411348854,Psychiatry
+147,Wellington Regional inventore Hospital,"PO Box 3
+Horowaka 8941",6424802042,"Cardiology, Oncology, Dermatology"
+148,Waitakere reiciendis Hospital,"904 Whanganui Street
+RD 3
+Pricemouth 9004",6415424866,Cardiology
+149,Starship Children’s Health iure Hospital,"Apt. 579
+13 Kennedy Street
+Burtonland 5130",6400800590,"Dermatology, Pediatric, Pharmacy"
+150,Starship Children’s Health pariatur Hospital,"650 Geoffrey Arcade
+Lanetown 9679",6412430764,Neurology
+151,Kenepuru odit Hospital,"21 Powell-Rush Quay
+Manawawai 2552",6408291423,"Cardiology, Dermatology"
+152,Hutt iste Hospital,"3 Kowhaitaumakau Street
+Wellsland 7334",6468686096,"Dermatology, Radiology, Neurology"
+153,Hutt soluta Hospital,"1 Wharenui Beach Road
+High McLeodings 8059",6450416845,"Cardiology, Radiology"
+154,Starship Children’s Health ipsa Hospital,"8 Lucas Causeway
+Whangarohe 2193",6432108217,"Gastroenterology, Psychiatry"
+155,Hutt hic Hospital,"52 Avery Anchorage
+Korotipu 0684",6458389437,"Orthopedics, Pharmacy"
+156,Hutt non Hospital,"Apt. 922
+42 O'Brien Place
+Matahoro 5129",6421971611,"Oncology, Dermatology, Neurology"
+157,Hutt quaerat Hospital,"184 Whakaiti Street
+Paulaland 2559",6446036521,"General Medicine, Cardiology, Orthopedics"
+158,Kenepuru minima Hospital,"PO Box 54
+Foleyport 2231",6469264207,"Emergency Medicine, Neurology"
+159,Wellington Regional saepe Hospital,"84 Broughan-Phillips Street
+Tipumokotipu 8836",6415153494,"Pharmacy, Pediatric, Cardiology"
+160,Kenepuru accusamus Hospital,"PO Box 864
+Wallport 2101",6481953571,"Cardiology, Surgery"
+161,Kenepuru sequi Hospital,"671 Hills Keys
+Toms Flats 6000",6452141647,"Gastroenterology, Radiology, Orthopedics"
+162,Waitakere unde Hospital,"3 Bryant Road
+RD 9
+Paulgate 8472",6477736521,"Pediatric, Pharmacy, Radiology"
+163,Wellington Regional unde Hospital,"PO Box 902
+Tangitererangi 8426",6484766801,"Orthopedics, Gastroenterology"
+164,Auckland City omnis Hospital,"822 Doherty-Harris Rise
+Gordonburn 5743",6493798575,"Emergency Medicine, Radiology, Pediatric"
+165,Auckland City tempora Hospital,"Level 9
+68 Murphy Drive
+Taitipuwhaka 9784",6472541331,Gastroenterology
+166,Waitakere soluta Hospital,"97 Smith Street
+Rongonui 5062",6489401963,"Neurology, Surgery"
+167,Wellington Regional ipsam Hospital,"554 Koroterenuku Avenue
+Wekawhangaroto 8603",6484206812,Orthopedics
+168,Hutt accusamus Hospital,"400 Anderson-McLeod Parade
+Motuiti 8030",6495463712,"Dermatology, Surgery, Emergency Medicine"
+169,Wellington Regional vel Hospital,"298 Corlett Crescent
+RD 6
+Wekapuketai 2183",6428460376,"Emergency Medicine, Psychiatry"
+170,Starship Children’s Health aspernatur Hospital,"5 McKay Place
+Terewhare 8237",6486152056,Cardiology
+171,Waitakere error Hospital,"588 Emma Esplanade
+Kowhaiawangauru 2158",6481861553,Emergency Medicine
+172,Wellington Regional dignissimos Hospital,"35 Knight Cross
+McKennaburgh 5127",6426786738,"Neurology, General Medicine"
+173,Starship Children’s Health eaque Hospital,"8 Margaret Road
+South Harrisonville 8007",6445799473,"Oncology, Dermatology"
+174,Wellington Regional error Hospital,"Flat 31
+413 Matakoroiti Drive
+Simpsonberg 5835",6428412736,Cardiology
+175,Auckland City cupiditate Hospital,"61 Pongaurumaunga Road
+Lower Smithberg 6980",6449463498,Cardiology
+176,Wellington Regional labore Hospital,"5 Pukewakatipu Road
+Rototahi 7760",6484245482,"Pediatric, Emergency Medicine, Gastroenterology"
+177,Starship Children’s Health odit Hospital,"29 Jackson Alleyway
+Oliverfort 2618",6446880736,Pediatric
+178,Waitakere dolorum Hospital,"504 Scott-Jackson Gardens
+RD 4
+Horotapu 9708",6428690521,"Radiology, Dermatology, Gastroenterology"
+179,Hutt reiciendis Hospital,"3 Papaparongowhero Grove
+RD 6
+Blakebury 5840",6480492961,"Gastroenterology, Neurology"
+180,Auckland City nulla Hospital,"3 Horonuku Street
+Harperberg 8898",6436215134,"Surgery, Dermatology, Emergency Medicine"
+181,Wellington Regional distinctio Hospital,"532 Raewyn Cross
+Awamokokiwi 9534",6412531146,General Medicine
+182,Kenepuru occaecati Hospital,"61 Papapanui Crescent
+Pikeings 2607",6464868612,"Pediatric, Neurology, Emergency Medicine"
+183,Hutt quibusdam Hospital,"442 Samantha Keys
+Collis Flats 9852",6404465712,"Pharmacy, Psychiatry"
+184,Hutt labore Hospital,"PO Box 16
+Elizabethfort 9593",6466439258,Cardiology
+185,Auckland City tenetur Hospital,"787 Kowhaiterewaka Street
+Lower Wallacemouth 2264",6483109463,Dermatology
+186,Auckland City aut Hospital,"8 Dyer Street
+Dicksongate 9834",6439947218,Neurology
+187,Wellington Regional quas Hospital,"4 Forrest Highway
+Awamotu 6475",6497723060,"Pediatric, Neurology, General Medicine"
+188,Waitakere dicta Hospital,"2 Tangitipu Alley
+Kowhaitaitai 9367",6452773780,Pharmacy
+189,Waitakere reiciendis Hospital,"Apt. 330
+3 Tereiti Street
+Ngaurukowhaimata 5311",6439740604,Gastroenterology
+190,Waitakere laborum Hospital,"9 Taipopo Road
+RD 5
+Jonestown 8124",6412773875,"Gastroenterology, Surgery, General Medicine"
+191,Wellington Regional praesentium Hospital,"Suite 806
+591 Porter Avenue
+Jones Flats 9478",6464302018,Radiology
+192,Auckland City nemo Hospital,"79 Cox Cross
+Scottberg 2160",6474804460,"Gastroenterology, Psychiatry, Cardiology"
+193,Wellington Regional vero Hospital,"6 Davenport Road
+Maungawhero 6204",6474868438,"Neurology, General Medicine"
+194,Starship Children’s Health sed Hospital,"4 Emily Pass
+RD 2
+Bruceing 6916",6445330681,Neurology
+195,Hutt odit Hospital,"824 Herd Causeway
+Smithgate 2422",6419018341,Gastroenterology
+196,Hutt aperiam Hospital,"136 Smith Street
+Kellyburn 9052",6409056599,"Dermatology, Orthopedics"
+197,Waitakere deserunt Hospital,"6 Gilmore Road
+RD 1
+Waitapu 5281",6410587607,"Oncology, Pharmacy, Surgery"
+198,Hutt nam Hospital,"Suite 353
+32 Bradley-Richards Access
+Mount Jamiesonland 3809",6489246555,"Cardiology, Orthopedics, Oncology"
+199,Wellington Regional maiores Hospital,"360 Alexandra Avenue
+Rotohoro 5310",6464102595,"Orthopedics, General Medicine, Pharmacy"
+200,Kenepuru doloribus Hospital,"Unit 43
+35 Tangiwhenua Road
+Wharekowhaikawa 6480",6464126602,Psychiatry

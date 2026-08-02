@@ -1,0 +1,232 @@
+import json
+from ollama import Client
+
+client = Client(host='http://localhost:11434')
+
+
+SYSTEM_PROMPT = """
+You are an intent classifier.
+
+Available intents:
+
+1. dbqna
+   Description:
+   - Questions about doctors
+   - Hospitals
+   - Medical specialties
+   - Doctor availability
+   - Doctor experience
+   - Hospital facilities
+   - Finding doctors/hospitals
+   - Appointment related queries
+   - Any query answerable from a doctors/hospitals database
+
+   Arguments:
+   {
+      "question": "<user question>"
+   }
+
+2. webqna
+   Description:
+   - Any other query requiring web search or general knowledge
+
+   Arguments:
+   {
+      "user_query": "<user question>"
+   }
+
+3. sum_of_a_and_b
+   Description:
+   - Questions asking for the sum of two numbers.
+
+   Arguments:
+   {
+      "a": <integer>,
+      "b": <integer>
+   }
+
+RULES:
+
+1. Return ONLY valid JSON.
+
+2. ALWAYS return a JSON ARRAY.
+
+3. If the query contains multiple independent requests belonging
+   to different intents, split the query and return multiple items.
+
+4. Preserve the original wording from the user's query whenever possible.
+
+5. Do not merge unrelated intents into a single intent.
+
+6. Every item must contain:
+   - intent
+   - args
+
+7. Never return markdown.
+
+Examples:
+
+User:
+Best cardiologist in Hyderabad
+
+Response:
+[
+  {
+    "intent": "dbqna",
+    "args": {
+      "question": "Best cardiologist in Hyderabad"
+    }
+  }
+]
+
+User:
+What is the sum of 10 and 20
+
+Response:
+[
+  {
+    "intent": "sum_of_a_and_b",
+    "args": {
+      "a": 10,
+      "b": 20
+    }
+  }
+]
+
+User:
+Who is the best cardiologist in Hyderabad and what is the sum of 10 and 20
+
+Response:
+[
+  {
+    "intent": "dbqna",
+    "args": {
+      "question": "Who is the best cardiologist in Hyderabad"
+    }
+  },
+  {
+    "intent": "sum_of_a_and_b",
+    "args": {
+      "a": 10,
+      "b": 20
+    }
+  }
+]
+
+User:
+Find a neurologist in Hyderabad and tell me who is the Prime Minister of India
+
+Response:
+[
+  {
+    "intent": "dbqna",
+    "args": {
+      "question": "Find a neurologist in Hyderabad"
+    }
+  },
+  {
+    "intent": "webqna",
+    "args": {
+      "user_query": "tell me who is the Prime Minister of India"
+    }
+  }
+]
+"""
+
+
+def get_intent(user_query: str) -> list:
+    """
+    Returns a list of intents.
+
+    Example:
+    [
+        {
+            "intent": "dbqna",
+            "args": {
+                "question": "Best cardiologist in Hyderabad"
+            }
+        },
+        {
+            "intent": "sum_of_a_and_b",
+            "args": {
+                "a": 10,
+                "b": 20
+            }
+        }
+    ]
+    """
+
+    try:
+        response = client.chat(
+            model="llama3.1:8b",
+            messages=[
+                {"role": "system", "content": SYSTEM_PROMPT},
+                {"role": "user", "content": user_query}
+            ],
+            options={
+                "temperature": 0
+            }
+        )
+
+        content = response["message"]["content"].strip()
+
+        # Remove markdown fences if model accidentally returns them
+        if content.startswith("```"):
+            content = content.replace("```json", "")
+            content = content.replace("```", "")
+            content = content.strip()
+
+        result = json.loads(content)
+
+        if isinstance(result, dict):
+            result = [result]
+
+        if not isinstance(result, list):
+            raise ValueError("Response is not a list")
+
+        validated_results = []
+
+        for item in result:
+            if (
+                isinstance(item, dict)
+                and "intent" in item
+                and "args" in item
+            ):
+                validated_results.append(item)
+
+        if validated_results:
+            return validated_results
+
+    except Exception as e:
+        print(f"Intent parsing error: {e}")
+
+    return [
+        {
+            "intent": "webqna",
+            "args": {
+                "user_query": user_query
+            }
+        }
+    ]
+
+
+if __name__ == "__main__":
+
+    while True:
+
+        query = input("\nQuestion: ").strip()
+
+        if query.lower() in ["exit", "quit"]:
+            break
+
+        intents = get_intent(query)
+
+        print("\nDetected Intents:")
+
+        print(
+            json.dumps(
+                intents,
+                indent=4,
+                ensure_ascii=False
+            )
+        )
