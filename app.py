@@ -5,7 +5,7 @@ from orchestrator import QnAOrchestrator
 import traceback
 
 st.set_page_config(page_title="Unified QnA", layout="wide")
-st.title("🤖 Unified QnA – Document & Web")
+st.title("🤖 Unified QnA – Document, Web & Database")
 
 # --- Secrets ---
 try:
@@ -59,4 +59,4 @@ if st.button("Get Answer", type="primary"):
                 st.error(f"An error occurred: {e}")
                 st.code(traceback.format_exc())
 
-st.info("This app uses intent detection to decide whether to answer from your document or from the web.")
+st.info("This app uses intent detection to decide whether to answer from your document, database, or from the web.")
