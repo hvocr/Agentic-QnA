@@ -2,7 +2,7 @@ from groq import Groq
 import streamlit as st
 import os
 
-def classify_intent(question: str, groq_api_key: str, db_exists: bool = False) -> str:
+def classify_intent(question: str, groq_api_key: str, db_exists: bool = False, doc_exists: bool = False) -> str:
     """
     Classify intent with optional bias if database exists.
     """
@@ -13,9 +13,14 @@ def classify_intent(question: str, groq_api_key: str, db_exists: bool = False) -
             return "DATABASE"  # short-circuit
 
     client = Groq(api_key=groq_api_key)
+    doc_context_note = (
+        "\nNote: A document has been uploaded by the user and may be relevant, "
+        "even if the question doesn't explicitly mention 'the document' or 'the paper'.\n"
+        if doc_exists else ""
+    )
     prompt = f"""
 You are an intent classifier. Given a user question, decide which system should answer it:
-
+{doc_context_note}
 - DOCUMENT: questions about a specific uploaded document (e.g., "What does the paper say about X?").
 - WEB: questions about current events, general knowledge, or external information (e.g., "Who won the World Cup?").
 - DATABASE: questions that require structured data retrieval from a database (e.g., "Show me all sales records above 1000", "List doctors with rating > 4.5", "Who is the best doctor?").
