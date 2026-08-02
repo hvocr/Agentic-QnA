@@ -1,3 +1,4 @@
+from document_qna import DocumentQnA
 import streamlit as st
 import os
 from orchestrator import QnAOrchestrator
